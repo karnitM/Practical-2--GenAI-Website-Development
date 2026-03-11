@@ -1,12 +1,16 @@
 <script>
 </script>
+
 <nav>
     <ul>
         <li>
             <a href="/">HOME</a>
         </li>
         <li>
-            <a href="/about">ABOUT QUID GAME</a>
+            <a href="/about">ABOUT SQUID GAME</a>
+        </li>
+        <li>
+            <a href="/characters">CHARACTERS</a>
         </li>
     </ul>
 </nav>
@@ -14,7 +18,6 @@
 <style>
     nav {
         display: flex;
-
         background-color: #e30a5a;
         margin-bottom: 1rem;
     }
@@ -31,7 +34,6 @@
 
     nav a {
         text-decoration: none;
-        /*color: gold;*/
         color: white;
         text-align: center;
         width: 10rem;
@@ -42,7 +44,6 @@
         font-style: normal;
 
         font-size: 1.5cqw;
-
     }
 
     nav a:hover {

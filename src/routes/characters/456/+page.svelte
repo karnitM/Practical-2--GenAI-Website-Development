@@ -1,0 +1,53 @@
+<section class="character-card">
+    <h1>Seong Gi-hun (Player 456)</h1>
+
+    <img src="/images/456.jpg" alt="Seong Gi-hun" class="character-img" />
+
+    <p>
+        Seong Gi-hun is the main protagonist of Squid Game. Despite facing
+        financial hardship and personal struggles, he remains compassionate and
+        empathetic throughout the competition. His moral choices and emotional
+        journey form the heart of the series.
+    </p>
+</section>
+
+<style>
+    .character-card {
+        max-width: 600px;
+        margin: 2rem auto;
+        padding: 2rem;
+        background: #ffe4ec;
+        border-radius: 12px;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        text-align: center;
+        font-family: "Megrim", system-ui;
+    }
+
+    h1 {
+        color: #e30a5a;
+        font-size: 2.2rem;
+        margin-bottom: 1rem;
+    }
+
+    .character-img {
+        width: 70%;
+        border-radius: 10px;
+        margin-bottom: 1.5rem;
+        border: 3px solid #e30a5a;
+    }
+
+    p {
+        font-size: 1.2rem;
+        line-height: 1.6;
+        color: #333;
+        font-family: Arial, sans-serif;
+    }
+    
+    .character-img {
+        width: 70%;
+        border-radius: 10px;
+        margin: 1.5rem auto;   
+        border: 3px solid #e30a5a;
+        display: block;       
+    }
+</style>
