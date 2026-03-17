@@ -15,6 +15,8 @@
         <li>
             <a href="/games">GAMES</a>
         </li>
+        <li><a href="/author">AUTHOR</a></li>
+
 
     </ul>
 </nav>

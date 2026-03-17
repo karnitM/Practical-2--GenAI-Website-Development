@@ -50,3 +50,26 @@ The AI assisted with:
 - Wrote the game descriptions  
 - Added the navigation link  
 - Implemented the page based on the AI’s CSS suggestions  
+
+
+## Stage 4 – About the Creator Page
+
+For Stage 4, I expanded the website by adding a new page dedicated to the creator of *Squid Game*, Hwang Dong‑hyuk. This page provides background information about his career, his earlier films, and the development of the series.
+
+The GenAI co‑pilot assisted by:
+- Generating the initial SvelteKit page structure
+- Writing the biography content for Hwang Dong‑hyuk
+- Designing the layout and colour scheme
+- Updating the card background to a light‑blue theme
+- Styling the image border and title with neon‑blue accents
+- Removing unwanted glow effects when requested
+- Ensuring the page remained visually consistent with the rest of the site
+
+The final page includes:
+- A centred card layout
+- A profile image with a neon‑blue border
+- A neon‑blue title
+- A light‑blue background card
+- Clean, readable biography text
+
+This stage demonstrates how GenAI can support design decisions, refine styling, and help maintain visual consistency across the site.
