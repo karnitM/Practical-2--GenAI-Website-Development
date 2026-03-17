@@ -12,6 +12,10 @@
         <li>
             <a href="/characters">CHARACTERS</a>
         </li>
+        <li>
+            <a href="/games">GAMES</a>
+        </li>
+
     </ul>
 </nav>
 

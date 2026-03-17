@@ -1,5 +1,3 @@
-[back to assessments](https://github.com/dr-matt-smith/FEDev---assessment-samples-and-walkthroughs?tab=readme-ov-file) <<< 
-
 # FEDev---squid-game-Sveltkit-wbesite
 
 This is a 2-page website about the Squid Game Netflix TV series
@@ -32,3 +30,23 @@ The AI assisted with:
 - I wrote the routing and structure  
 - I added the navigation link  
 - I implemented the pages based on the AI’s CSS suggestions  
+
+## Stage 3 – Games Page (Using GenAI for CSS Design)
+
+For Stage 3, I added a new **/games** page to the website.  
+I created the SvelteKit page myself, including the structure, routing, and content.
+
+### How GenAI was used
+I used GenAI to help design the **CSS layout and styling** for the Games page.  
+The AI assisted with:
+
+- Creating the responsive grid layout  
+- Designing the card style  
+- Choosing colours, spacing, and hover effects  
+- Making the page visually consistent with the rest of the site  
+
+### What I did myself
+- Built the SvelteKit page  
+- Wrote the game descriptions  
+- Added the navigation link  
+- Implemented the page based on the AI’s CSS suggestions  
